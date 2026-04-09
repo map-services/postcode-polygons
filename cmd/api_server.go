@@ -15,6 +15,7 @@ import (
 	"github.com/gin-contrib/pprof"
 	"github.com/gin-gonic/gin"
 	"github.com/kofalt/go-memoize"
+	"github.com/rm-hull/godx"
 	"github.com/tavsec/gin-healthcheck/checks"
 	cachecontrol "go.eigsys.de/gin-cachecontrol/v2"
 
@@ -23,6 +24,10 @@ import (
 )
 
 func ApiServer(zipFile string, port int, debug bool) {
+	godx.GitVersion()
+	godx.EnvironmentVars()
+	godx.UserInfo()
+
 	idx, err := internal.TransientDownload(zipFile, spatialindex.NewCodePointSpatialIndex)
 	if err != nil {
 		log.Fatalf("failed to create spatial index: %v", err)
