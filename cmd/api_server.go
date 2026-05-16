@@ -4,10 +4,11 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"postcode-polygons/internal"
-	"postcode-polygons/routes"
-	spatialindex "postcode-polygons/spatial-index"
 	"time"
+
+	"github.com/map-services/postcode-polygons/internal"
+	"github.com/map-services/postcode-polygons/routes"
+	spatialindex "github.com/map-services/postcode-polygons/spatial-index"
 
 	"github.com/Depado/ginprom"
 	"github.com/aurowora/compress"

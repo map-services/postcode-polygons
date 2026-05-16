@@ -5,8 +5,9 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"os"
-	spatialindex "postcode-polygons/spatial-index"
 	"testing"
+
+	spatialindex "github.com/map-services/postcode-polygons/spatial-index"
 
 	"github.com/gin-gonic/gin"
 	"github.com/paulmach/orb/geojson"

@@ -1,4 +1,4 @@
-module postcode-polygons
+module github.com/map-services/postcode-polygons
 
 go 1.26
 

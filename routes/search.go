@@ -5,10 +5,11 @@ import (
 	"log"
 	"math"
 	"net/http"
-	"postcode-polygons/internal"
-	spatialindex "postcode-polygons/spatial-index"
 	"strconv"
 	"strings"
+
+	"github.com/map-services/postcode-polygons/internal"
+	spatialindex "github.com/map-services/postcode-polygons/spatial-index"
 
 	"os"
 

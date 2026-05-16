@@ -7,8 +7,9 @@ import (
 	"log"
 	"os"
 	"path/filepath"
-	"postcode-polygons/internal"
 	"strings"
+
+	"github.com/map-services/postcode-polygons/internal"
 
 	"github.com/dsnet/compress/bzip2"
 	"github.com/dustin/go-humanize"

@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/map-services/postcode-polygons/cmd"
 	"log"
-	"postcode-polygons/cmd"
 
 	"github.com/spf13/cobra"
 )
