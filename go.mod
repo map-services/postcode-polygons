@@ -85,7 +85,7 @@ require (
 	github.com/kofalt/go-memoize v0.0.0-20240506050413-9e5eb99a0f2a
 	github.com/mattn/go-colorable v0.1.15 // indirect
 	github.com/mattn/go-isatty v0.0.22 // indirect
-	github.com/rm-hull/godx v0.2.3
+	github.com/rm-hull/godx v0.2.4
 	github.com/tidwall/rtree v1.10.0
 	go.mongodb.org/mongo-driver v1.17.9 // indirect
 	golang.org/x/sys v0.46.0 // indirect
