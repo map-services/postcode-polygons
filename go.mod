@@ -12,7 +12,7 @@ require (
 	github.com/paulmach/orb v0.13.0
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.12.1
-	github.com/tavsec/gin-healthcheck v1.7.16
+	github.com/tavsec/gin-healthcheck v1.7.17
 	go.eigsys.de/gin-cachecontrol/v2 v2.6.0
 )
 
