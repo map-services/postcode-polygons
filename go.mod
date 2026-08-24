@@ -44,7 +44,7 @@ require (
 	github.com/leodido/go-urn v1.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/montanaflynn/stats v0.12.3 // indirect
+	github.com/montanaflynn/stats v0.12.4 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/oapi-codegen/runtime v1.7.0 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
@@ -55,7 +55,7 @@ require (
 	github.com/prometheus/procfs v0.21.1 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
 	github.com/quic-go/quic-go v0.61.0 // indirect
-	github.com/rabbitmq/amqp091-go v1.13.0 // indirect
+	github.com/rabbitmq/amqp091-go v1.14.0 // indirect
 	github.com/redis/go-redis/v9 v9.22.0 // indirect
 	github.com/spf13/pflag v1.0.10 // indirect
 	github.com/tidwall/geoindex v1.7.0 // indirect
@@ -83,7 +83,7 @@ require (
 	github.com/kofalt/go-memoize v0.0.0-20240506050413-9e5eb99a0f2a
 	github.com/mattn/go-colorable v0.1.15 // indirect
 	github.com/mattn/go-isatty v0.0.24 // indirect
-	github.com/rm-hull/godx v0.2.4
+	github.com/rm-hull/godx v0.2.5
 	github.com/tidwall/rtree v1.11.1
 	go.mongodb.org/mongo-driver v1.17.9 // indirect
 	golang.org/x/sys v0.47.0 // indirect
