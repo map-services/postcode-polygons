@@ -9,7 +9,7 @@ require (
 	github.com/dustin/go-humanize v1.1.0
 	github.com/fatih/color v1.19.0
 	github.com/gin-contrib/cors v1.7.8
-	github.com/gin-contrib/pprof v1.5.5
+	github.com/gin-contrib/pprof v1.5.6
 	github.com/gin-gonic/gin v1.12.0
 	github.com/json-iterator/go v1.1.12
 	github.com/kofalt/go-memoize v0.0.0-20240506050413-9e5eb99a0f2a
