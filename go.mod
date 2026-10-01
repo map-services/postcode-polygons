@@ -14,7 +14,7 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/kofalt/go-memoize v0.0.0-20240506050413-9e5eb99a0f2a
 	github.com/paulmach/orb v0.13.0
-	github.com/rm-hull/godx v0.2.5
+	github.com/rm-hull/godx v0.2.6
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.12.1
 	github.com/tavsec/gin-healthcheck v1.7.18
